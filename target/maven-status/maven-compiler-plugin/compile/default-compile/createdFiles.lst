@@ -1,0 +1,9 @@
+com\uts\invoice\programacion\web\models\entities\Factura.class
+com\uts\invoice\programacion\web\models\entities\Producto.class
+com\uts\invoice\programacion\web\models\entities\Cliente.class
+com\uts\invoice\programacion\web\models\entities\ItemFactura.class
+com\uts\invoice\programacion\web\services\ClienteServiceImpl.class
+com\uts\invoice\programacion\web\models\dao\IClienteDao.class
+com\uts\invoice\programacion\web\controllers\ClienteController.class
+com\uts\invoice\programacion\web\services\IClienteService.class
+com\uts\invoice\programacion\web\MvcInvoiceUtsProgramacionWebApplication.class
