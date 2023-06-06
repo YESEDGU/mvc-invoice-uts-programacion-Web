@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.uts.invoice.programacion.web.MvcInvoiceUtsProgramacionWebApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 55.767 s - in com.uts.invoice.programacion.web.MvcInvoiceUtsProgramacionWebApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.724 s - in com.uts.invoice.programacion.web.MvcInvoiceUtsProgramacionWebApplicationTests
